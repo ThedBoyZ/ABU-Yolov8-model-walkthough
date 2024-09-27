@@ -1,0 +1,3 @@
+[submodule "ABU-Yolov5/yolov5"]
+	path = ABU-Yolov5/yolov5
+	url = https://github.com/ultralytics/yolov5

@@ -1,0 +1,6 @@
+train: D:\ThedboyCoding\ABU Yolov8\ABU Model screenshot\train
+val: D:\ThedboyCoding\ABU Yolov8\ABU Model screenshot\val
+
+nc: 4
+
+names: ["Red ball", "Blue ball", "Purple ball", "Cyro"]
